@@ -1,5 +1,8 @@
  const {Person} = require("./person")
 
- const person = new Person("Joao")
+//require("./modules/path")
+require('./modules/fs')
 
-require("./modules/path")
+
+const person = new Person("Joao")
+

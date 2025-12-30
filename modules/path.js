@@ -15,4 +15,3 @@ console.log(path.parse(__filename))
 
 //Junte varios caminhos de arquivos
 console.log(path.join(__dirname, "test", "test.html"))
-
